@@ -1,0 +1,5 @@
+#Ignore test files
+*main.c
+
+#Ignore emacs generated files
+*~

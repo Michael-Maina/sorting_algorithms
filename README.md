@@ -1,0 +1,1 @@
+This repository contains code written in C exploring the implementation of various sorting algorithms.
